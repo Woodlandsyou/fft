@@ -15,5 +15,8 @@ If you can't see properly the FFT spectrum, try adjusting the bounds of the FFT 
 ## Screenshot
 ![alt text](https://github.com/JbAmade/Python-FFT-GUI/blob/main/Screenshot.png?raw=true)
 
+## Node
+this is mostly a copy of the "https://github.com/MachXNU/Python-FFT-GUI" by MachXNU just slightly changed to fit my purpose and output fft into .csv file.
+
 ## License
 MIT license
